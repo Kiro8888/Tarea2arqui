@@ -36,7 +36,7 @@
     "established": "1764",
     "description": "El Museo Estatal del Hermitage es uno de los museos más grandes y antiguos del mundo, ubicado en San Petersburgo.",
     "notableExhibits": "Colección del Palacio de Invierno",
-    "image": "/images/museos/state-hermitage-museum.jpg",
+    "image": "/images/museos/state-hermitage-museum.jpeg",
     "paintings": []
   },
   {
@@ -76,7 +76,7 @@
     "established": "1824",
     "description": "La Galería Nacional alberga una rica colección de pinturas de Europa Occidental, desde el siglo XIII hasta el XIX.",
     "notableExhibits": "El retrato de Arnolfini",
-    "image": "/images/museos/national-gallery.jpg",
+    "image": "/images/museos/national-gallery.jpeg",
     "paintings": ["arnolfini-portrait", "venus-and-mars"]
   },
   {
@@ -86,7 +86,7 @@
     "established": "1870",
     "description": "El Met presenta más de 5,000 años de arte de cada rincón del mundo y es uno de los museos más grandes y prestigiosos del mundo.",
     "notableExhibits": "Washington cruzando el Delaware",
-    "image": "/images/museos/metropolitan-museum-of-art.jpg",
+    "image": "/images/museos/metropolitan-museum-of-art.png",
     "paintings": ["washington-crossing-the-delaware", "the-death-of-socrates"]
   },
   {

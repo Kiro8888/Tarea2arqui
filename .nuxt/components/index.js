@@ -1,5 +1,6 @@
 export { default as FooterView } from '../..\\components\\global\\FooterView.vue'
 export { default as HeaderView } from '../..\\components\\global\\HeaderView.vue'
+export { default as Utterances } from '../..\\components\\global\\Utterances.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

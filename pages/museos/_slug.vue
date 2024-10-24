@@ -20,6 +20,7 @@
       </div>
       <div class="two columns"></div>
     </div>
+    <Utterances />
     <FooterView />
   </div>
 </template>

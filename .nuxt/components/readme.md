@@ -8,3 +8,4 @@ You can directly use them in pages and other components without the need to impo
 
 - `<FooterView>` | `<footer-view>` (components/global/FooterView.vue)
 - `<HeaderView>` | `<header-view>` (components/global/HeaderView.vue)
+- `<Utterances>` | `<utterances>` (components/global/Utterances.vue)
