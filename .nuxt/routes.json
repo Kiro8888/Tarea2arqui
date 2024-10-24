@@ -2,43 +2,43 @@
   {
     "name": "artistas",
     "path": "/artistas",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Tarea2\\\\pages\\\\artistas.vue",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\artistas.vue",
     "chunkName": "pages/artistas"
   },
   {
     "name": "museo",
     "path": "/museo",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Tarea2\\\\pages\\\\museo.vue",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\museo.vue",
     "chunkName": "pages/museo"
   },
   {
     "name": "pinturas",
     "path": "/pinturas",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Tarea2\\\\pages\\\\pinturas.vue",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\pinturas.vue",
     "chunkName": "pages/pinturas"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Tarea2\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\index.vue",
     "chunkName": "pages/index"
   },
   {
     "name": "artista-slug",
     "path": "/artista/:slug?",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Tarea2\\\\pages\\\\artista\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\artista\\\\_slug.vue",
     "chunkName": "pages/artista/_slug"
   },
   {
     "name": "museos-slug",
     "path": "/museos/:slug?",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Tarea2\\\\pages\\\\museos\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\museos\\\\_slug.vue",
     "chunkName": "pages/museos/_slug"
   },
   {
     "name": "pintura-slug",
     "path": "/pintura/:slug?",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Tarea2\\\\pages\\\\pintura\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\pintura\\\\_slug.vue",
     "chunkName": "pages/pintura/_slug"
   }
 ]
