@@ -1,0 +1,51 @@
+[
+  {
+    "name": "artistas",
+    "path": "/artistas",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Entregable_proyecto1\\\\Proyecto1\\\\pages\\\\artistas.vue",
+    "chunkName": "pages/artistas",
+    "_name": "_33ec0579"
+  },
+  {
+    "name": "museo",
+    "path": "/museo",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Entregable_proyecto1\\\\Proyecto1\\\\pages\\\\museo.vue",
+    "chunkName": "pages/museo",
+    "_name": "_0fd8bd25"
+  },
+  {
+    "name": "pinturas",
+    "path": "/pinturas",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Entregable_proyecto1\\\\Proyecto1\\\\pages\\\\pinturas.vue",
+    "chunkName": "pages/pinturas",
+    "_name": "_76786ece"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Entregable_proyecto1\\\\Proyecto1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_62bfbc7c"
+  },
+  {
+    "name": "artista-slug",
+    "path": "/artista/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Entregable_proyecto1\\\\Proyecto1\\\\pages\\\\artista\\\\_slug.vue",
+    "chunkName": "pages/artista/_slug",
+    "_name": "_954e01e0"
+  },
+  {
+    "name": "museos-slug",
+    "path": "/museos/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Entregable_proyecto1\\\\Proyecto1\\\\pages\\\\museos\\\\_slug.vue",
+    "chunkName": "pages/museos/_slug",
+    "_name": "_1341dcdc"
+  },
+  {
+    "name": "pintura-slug",
+    "path": "/pintura/:slug?",
+    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\Entregable_proyecto1\\\\Proyecto1\\\\pages\\\\pintura\\\\_slug.vue",
+    "chunkName": "pages/pintura/_slug",
+    "_name": "_44b756b6"
+  }
+]
